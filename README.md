@@ -1,3 +1,4 @@
+![logo](https://github.com/MehulBRabari/MehulBRabari/blob/main/BANNER1.jpg)
 
 <h1 align="center">Hi 👋, I'm Mehul Rabari</h1>
 <h3 align="center">A passionate full stack web developer</h3>
