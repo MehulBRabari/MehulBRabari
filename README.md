@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mehul Rabari</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2QuXfi4towQ4ojnTkvo0ualnbCAVAwu4u5x-kFKKrEmdoEYYDzGl1p_v19efeViBC4xs&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://github.com/MehulBRabari/MehulBRabari/blob/main/BANNE4.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulbrabari&label=Profile%20views&color=0e75b6&style=flat" alt="mehulbrabari" /> </p>
