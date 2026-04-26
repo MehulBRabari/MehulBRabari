@@ -10,13 +10,13 @@
   
   - 🌱 I’m currently learning **MCA 1st year**
   
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
   <a href="https://codepen.io/mehulbrabari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehulbrabari" height="30" width="40" /></a>
   <a href="https://twitter.com/mehulrabari2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehulrabari2005" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mehulkumarrabari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulkumarrabari" height="30" width="40" /></a>
   <a href="https://instagram.com/mehul._.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehul._.__" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/tech-with-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech-with-world" height="30" width="40" /></a>
+  <a href="https://youtube.com/@tech-with-world?si=dw0iDrEC1ZzWLUid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech-with-world" height="30" width="40" /></a>
   </p>
   
   <h3 align="center">Languages and Tools:</h3>
